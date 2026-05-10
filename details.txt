@@ -1,0 +1,8 @@
+testing for merchant login
+            ANUJ@gmail.com
+            1234567
+
+testing for customer login
+            SATYAM@gmail.com
+            123456
+            
