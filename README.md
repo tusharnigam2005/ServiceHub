@@ -18,7 +18,7 @@ ServiceHub is a full-stack MERN web application that connects customers with ser
 - Responsive UI
 
 ## GitHub Repository
-https://github.com/tusharnigam2005/upskillCampus
+https://github.com/tusharnigam2005/ServiceHub
 
 ## Author
 Tushar Nigam
